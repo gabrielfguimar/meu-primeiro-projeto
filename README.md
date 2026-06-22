@@ -1,3 +1,5 @@
+[![Voltar ao Perfil](https://img.shields.io/badge/-🔙_Ver_Perfil_Principal-blue?style=for-the-badge)](https://github.com/gabrielfguimar)
+
 # 🗓️ API de Gerenciamento de Eventos
 
 Uma API REST robusta e segura para gerenciamento de eventos corporativos, desenvolvida com o ecossistema Spring Boot e persistência em banco de dados relacional PostgreSQL. A aplicação conta com uma camada robusta de autenticação e autorização utilizando Spring Security e Tokens JWT.
@@ -101,8 +103,13 @@ Você pode testar o ecossistema completo utilizando clientes HTTP como o **Thund
       "data": "2026-11-20"
     }
     ```
-
+    
 ### 4. Listar Eventos (Público)
 * **Método:** `GET`
 * **URL:** `http://localhost:8080/api/eventos`
 * *(Nota: Esta rota está liberada e não exige o envio de tokens no cabeçalho).*
+
+---
+### 🔙 Voltar ao perfil principal
+Clique [aqui](https://github.com/gabrielfguimar) para ver meu portfólio completo, projetos de segurança e jornada técnica.
+
